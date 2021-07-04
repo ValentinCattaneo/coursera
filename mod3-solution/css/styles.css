@@ -1,0 +1,28 @@
+section {
+    background-color: rgb(112, 112, 112);
+    border: 10px solid white;
+    color: white;
+}
+
+p {
+    padding: 5px;
+}
+
+ul li a {
+  text-align: center;
+  border: 1px solid rgb(85, 85, 84);
+}
+
+ul li {
+
+  }
+
+ul {
+
+    width: 100%;
+  }
+
+.collapse {
+
+    width: 100%;
+}
